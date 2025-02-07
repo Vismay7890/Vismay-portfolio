@@ -20,18 +20,18 @@
 
 <h3 align="center">
     🔹
-    <a href="https://github.com/Vismay7890/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
+    <a href="https://github.com/Vismay7890/Vismay-portfolio/issues">Report Bug</a> &nbsp; &nbsp;
     🔹
-    <a href="https://github.com/Vismay7890/Portfolio/issues">Request Feature</a>
+    <a href="https://github.com/Vismay7890/Vismay-portfolio/issues">Request Feature</a>
 </h3>
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Vismay7890](https://github.com/Vismay7890/Portfolio). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Vismay7890](https://github.com/Vismay7890/Vismay-portfolio). Thanks!
 
 ## Built With
 
-My personal portfolio <a href="https://vismay.vercel.app/" target="_blank">vismay.tech</a> which features some of my GitHub projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://vismay-portfolio.vercel.app/" target="_blank">vismay.tech</a> which features some of my GitHub projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
