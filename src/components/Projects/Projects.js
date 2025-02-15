@@ -28,7 +28,7 @@ function Projects() {
               title="Sierra"
               description="Personal Chat Assistant with humanly voice , it understands your intent and talks as if you have your personal assiatant.It can talk to you about various topics as far as you can go."
               ghLink="https://github.com/VISMAY7890/Sierra"
-              demoLink="https://chatify-49.web.app/"
+              demoLink=""
             />
           </Col>
 
@@ -39,29 +39,10 @@ function Projects() {
               title="Gmail Automation"
               description="An application made with leveraging cutting edge AI technologies , it categorizes your emails and generates perfectly tailored responses and automates the fetch , generate and reply process."
               ghLink="https://github.com/Vismay7890/chatbot-chrome-extension"
-              demoLink="https://blogs.soumya-jit.tech/"
+              demoLink=""
             />
           </Col>
 
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={suicide}
-              isBlog={false}
-              title="AI For Social Good"
-              description="Using 'Natural Launguage Processing' for the detection of suicide-related posts and user's suicide ideation in cyberspace  and thus helping in sucide prevention."
-              ghLink="https://github.com/Vismay7890/"
-            />
-          </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={emotion}
-              isBlog={false}
-              title="Face Recognition and Emotion Detection"
-              description="Trained a CNN classifier using 'FER-2013 dataset' with Keras and tensorflow backened. The classifier sucessfully predicted the various types of emotions of human. And the highest accuracy obtained with the model was 60.1%.
-              Then used Open-CV to detect the face in an image and then pass the face to the classifer to predict the emotion of a person."
-              ghLink="https://github.com/Vismay7890/"
-            />
           </Col>
         </Row>
       </Container>
