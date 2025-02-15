@@ -42,8 +42,6 @@ function Projects() {
               demoLink=""
             />
           </Col>
-
-          </Col>
         </Row>
       </Container>
     </Container>
