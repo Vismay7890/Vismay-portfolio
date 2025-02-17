@@ -467,6 +467,12 @@ button:focus {
   transition: all 0.5s ease 0s !important;
   height: 100% !important;
 }
+.project-card-view img {
+  max-height: 200px;
+  width: 100%;
+  object-fit: contain;
+}
+
 .project-card-view:hover {
   transform: scale(1.02) !important;
   overflow: hidden !important;
